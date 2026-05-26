@@ -52,7 +52,7 @@
   "devDependencies": {
     "@types/node": "^24.3.0",
     "typescript": "^5.9.2",
-    "tsx": "^4.21.0",
+    "tsx": "^4.22.3",
     "vitest": "^3.2.4"
   },
   "openclaw": {
